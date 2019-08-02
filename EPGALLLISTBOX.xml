@@ -3423,12 +3423,12 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="SIC NOTICIAS">
-    <display-name lang="pt">PT-VIP: SIC NOTICIAS</display-name>
+    <display-name lang="pt">PT-VIP: SIC NOTÍCIAS</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=13&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
    <channel id="SIC NOTICIAS">
-    <display-name lang="pt">PT-VIP: SIC NOTICIAS FHD</display-name>
+    <display-name lang="pt">PT-VIP: SIC NOTÍCIAS HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=13&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -3438,7 +3438,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="BIGGS">
-    <display-name lang="pt">PT-VIP: PANDA BIGGS</display-name>
+    <display-name lang="pt">PT-VIP: BIGGS</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=146&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -3488,7 +3488,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="ARTV">
-    <display-name lang="pt">PT-VIP: ARTV PARLAMENTO</display-name>
+    <display-name lang="pt">PT-VIP: ARTV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -3628,12 +3628,17 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="FTV">
-    <display-name lang="pt">PT-VIP: FASHION</display-name>
+    <display-name lang="pt">PT-VIP: FTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=30&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">PT-VIP: FTV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=30&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="NATIONAL GEOGRAPHIC">
-    <display-name lang="pt">PT-VIP: NAT GEO</display-name>
+    <display-name lang="pt">PT-VIP: NATIONAL GEOGRAPHIC HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=31&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -3653,7 +3658,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="AFRO MUSIC">
-    <display-name lang="pt">PT-VIP: AFRO MUSIC CHANNEL</display-name>
+    <display-name lang="pt">PT-VIP: AFRO MUSIC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=345&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -3708,7 +3713,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="FIGHT NETWORK">
-    <display-name lang="pt">PT-VIP: FIGHT NETWORK</display-name>
+    <display-name lang="pt">PT-VIP: FIGHT SPORTS HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -3724,6 +3729,11 @@
   </channel>
   <channel id="SIC K">
     <display-name lang="pt">PT-VIP: SIC KIDS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">PT-VIP: SIC K</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -5247,6 +5257,9 @@
   </channel>
    <channel id="SUNDANCE.pt">
     <display-name lang="pt">|NOS| SUNDANCE HD</display-name>
+  </channel>
+<channel id="SUNDANCE.pt">
+    <display-name lang="pt">PT-VIP: SUNDANCE HD</display-name>
   </channel>
   <channel id="CBS REALITY">
     <display-name lang="pt">|MEO| CBS REALITY</display-name>
