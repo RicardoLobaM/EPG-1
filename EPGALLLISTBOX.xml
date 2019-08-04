@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="A BOLA TV">
+     <channel id="zapvivahd.pt">
+    <display-name lang="pt">PT: ZAP VIVA HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=50&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+	     <channel id="SUNDANCE.pt">
+    <display-name lang="pt">PT: ZAP VIVA HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+	 <url>http://SUNDANCE.pt</url>	     
+	  <channel id="CANAL 180">
+		   </channel>
+    <display-name lang="pt">PT-VIP: CANAL 180</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="KBS World">
+    <display-name lang="pt">PT-VIP: KBS WORLD HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="Localvisão TV">
+    <display-name lang="pt">PT: LocalVisao HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="Localvisão TV">
+    <display-name lang="pt">PT-VIP: LOCALVISÃO TV HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="MyCuisine.pt">
+    <display-name lang="pt">PT-VIP: MY CUISINE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/my-cuisine.png" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="pt">PT-VIP: TRACE URBAN HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="pt">PT-VIP: TRACE URBAN</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+	 <channel id="NRJ HITS">
+    <display-name lang="fr">PT: NRJ Hits</display-name>
+    <url>http://www.programme-tv.com</url>
+  </channel>
+	<channel id="A BOLA TV">
     <display-name lang="pt">|MEO| A BOLA TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+	<channel id="A BOLA TV">
+    <display-name lang="pt">PT: A Bola TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
    <channel id="TVGalicia.pt">
