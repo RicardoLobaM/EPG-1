@@ -48,9 +48,9 @@
     <display-name lang="pt">|MEO| FOX CRIME HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="FOXM">
+  <channel id="FOX Movies">
     <display-name lang="pt">|MEO| FOX MOVIES</display-name>
-    <url>http://www.nos.pt</url>
+ <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="foxlife.pt">
     <display-name lang="pt">|MEO| FOX LIFE HD</display-name>
