@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"> 
-<channel id="AMC">
+  <channel id="AMC">
     <display-name lang="pt">|MEO| AMC</display-name>
-    <url>http://www.mag.sapo.pt</url>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TLC.pt">
     <display-name lang="pt">">|MEO| TLC</display-name>
