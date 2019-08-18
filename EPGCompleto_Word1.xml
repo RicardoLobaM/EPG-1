@@ -2,8 +2,11 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"> 
 <channel id="AMC">
     <display-name lang="pt">|MEO| AMC</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
+        <url>http://www.nos.pt</url>
+	<url>http://www.vodafone.pt</url>
+	<url>http://www.mag.sapo.pt</url>
+	<url>http://www.meo.pt</url>
+  </channel>
   </channel>
   <channel id="TLC.pt">
     <display-name lang="pt">">|MEO| TLC</display-name>
@@ -22,17 +25,7 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
     <url>http://www.meo.pt</url>
   </channel>
-  <channel id="CINEMUNDO">
-    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
   <channel id="Cinemundo">
-    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="Cinemundo.pt">
     <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
     <url>http://www.meo.pt</url>
