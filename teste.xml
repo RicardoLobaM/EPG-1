@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVCine 1">
+    <display-name lang="pt">|MEO| TVCINE 1</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCine 2">
+    <display-name lang="pt">|MEO| TVCINE 2</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCine 3">
+    <display-name lang="pt">|MEO| TVCINE 3</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCine 4">
+    <display-name lang="pt">|MEO| TVCINE 4</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+</tv>
