@@ -519,7 +519,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=227&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TVCINE 1">
+  <channel id="Tvcine1.pt">
     <display-name lang="pt">|MEO| TVCINE 1</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -584,7 +584,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=239&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TVCINE 2">
+  <channel id="Tvcine2.pt">
     <display-name lang="pt">|MEO| TVCINE 2</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -604,7 +604,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=241&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TVCINE 3">
+  <channel id="Tvcine3.pt">
     <display-name lang="pt">|MEO| TVCINE 3</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -614,7 +614,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="TVCINE 4">
+  <channel id="Tvcine4.pt">
     <display-name lang="pt">|MEO| TVCINE 4</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
