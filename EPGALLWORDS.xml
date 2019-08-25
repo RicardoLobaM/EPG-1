@@ -637,4 +637,33 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel> 
+  
+      <channel id="TVCine1.pt">
+    <display-name lang="pt">PT-VIP: TVCINE 1</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+      <channel id="TVCine2.pt">
+    <display-name lang="pt">PT-VIP: TVCINE 2</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+      <channel id="TVCine3.pt">
+    <display-name lang="pt">PT-VIP: TVCINE 3</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+      <channel id="TVCine4.pt">
+    <display-name lang="pt">PT-VIP: TVCINE 4</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
 </tv>
