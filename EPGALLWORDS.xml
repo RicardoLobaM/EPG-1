@@ -2,22 +2,135 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="24Kitchen.pt">
     <display-name lang="pt">PT: 24 Kitchen FHD</display-name>
-	 <url>24Kitchen.pt</url>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
   </channel>
     <channel id="ABolaTV.pt">
     <display-name lang="pt">PT: A Bola TV</display-name>
-    <url>ABolaTV.pt</url>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
   </channel>
     <channel id="AfroMusic.pt">
     <display-name lang="pt">PT: Afro Music Channel</display-name>
-     <url>AfroMusic.pt</url>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
   </channel>
-    <channel id="AMC.pt">
+    <channel id="AMC">
     <display-name lang="pt">PT: AMC</display-name>
-     <url>AMC.pt</url>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
   </channel>
-    <channel id="AMC.pt">
+    <channel id="AMC">
     <display-name lang="pt">PT: AMC FHD</display-name>
-	 <url>AMC.pt</url>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="ARTV.pt">
+    <display-name lang="pt">PT: ARTV Parlamento</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="AXNBlack.pt">
+    <display-name lang="pt">PT: AXN Black</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="AXNBlack.pt">
+    <display-name lang="pt">PT: AXN Black FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="axn.pt">
+    <display-name lang="pt">PT: AXN FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="AXNWhite.pt">
+    <display-name lang="pt">PT: AXN White</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="AXNWhite.pt">
+    <display-name lang="pt">PT: AXN White FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="BABY TV">
+    <display-name lang="pt">PT: Baby TV</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>    
+     <channel id="">
+    <display-name lang="pt">PT: BBC World News</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>   
+    <channel id="">
+    <display-name lang="pt">PT: Blaze</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>    
+    <channel id="">
+    <display-name lang="pt">PT: Bloomberg</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>    
+     <channel id="">
+    <display-name lang="pt">PT: BOOMERANG</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>   
+     <channel id="BenficaTV.pt">
+    <display-name lang="pt">PT: BTV</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>   
+    <channel id="BenficaTV.pt">
+    <display-name lang="pt">PT: BTV FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>    
+    <channel id="BenficaTV.pt">
+    <display-name lang="pt">PT: BTV HD (Low)</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
   </channel>
 </tv>
