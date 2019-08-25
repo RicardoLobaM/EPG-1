@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="24Kitchen.pt">
+    <display-name lang="pt">PT: 24 Kitchen FHD</display-name>
+	 <url>24Kitchen.pt</url>
+  </channel>
+    <channel id="ABolaTV.pt">
+    <display-name lang="pt">PT: A Bola TV</display-name>
+    <url>ABolaTV.pt</url>
+  </channel>
+    <channel id="AfroMusic.pt">
+    <display-name lang="pt">PT: Afro Music Channel</display-name>
+     <url>AfroMusic.pt</url>
+  </channel>
+    <channel id="AMC.pt">
+    <display-name lang="pt">PT: AMC</display-name>
+     <url>AMC.pt</url>
+  </channel>
+    <channel id="AMC.pt">
+    <display-name lang="pt">PT: AMC FHD</display-name>
+	 <url>AMC.pt</url>
+  </channel>
+</tv>
