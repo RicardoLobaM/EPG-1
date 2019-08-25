@@ -14,7 +14,7 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-    <channel id="AfroMusic.pt">
+    <channel id="Afro Music">
     <display-name lang="pt">PT: Afro Music Channel</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
@@ -84,7 +84,7 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>    
-     <channel id="">
+     <channel id="BBC World">
     <display-name lang="pt">PT: BBC World News</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
@@ -98,7 +98,7 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>    
-    <channel id="">
+    <channel id="Bloomberg">
     <display-name lang="pt">PT: Bloomberg</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
@@ -128,6 +128,342 @@
   </channel>    
     <channel id="BenficaTV.pt">
     <display-name lang="pt">PT: BTV HD (Low)</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="CacaePesca">
+    <display-name lang="pt">PT: Caça e Pesca</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="CacaVision">
+    <display-name lang="pt">PT: Caçavision</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="HistoryChannel.pt">
+    <display-name lang="pt">PT: Canal História</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="canalpanda.pt">
+    <display-name lang="pt">PT: Canal Panda</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="Canal Q">
+    <display-name lang="pt">PT: Canal Q</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="CART">
+    <display-name lang="pt">PT: Cartoon Network</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="CBS Reality">
+    <display-name lang="pt">PT: CBS Reality</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="Cinemundo">
+    <display-name lang="pt">PT: CineMundo</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="CMTV.pt">
+    <display-name lang="pt">PT: CMTV</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="CMTV.pt">
+    <display-name lang="pt">PT: CMTV FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="">
+    <display-name lang="pt">PT: CNBC</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="CNN">
+    <display-name lang="pt">PT: CNN</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="">
+    <display-name lang="pt">PT: Crime Investigation</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="discoverychannel.pt">
+    <display-name lang="pt">PT: Discovery Channel</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="DISCOVERYHDSC">
+    <display-name lang="pt">PT: Discovery Showcase FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="disneychannel.pt">
+    <display-name lang="pt">PT: Disney Channel</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="">
+    <display-name lang="pt"></display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="disneyjunior.pt">
+    <display-name lang="pt">PT: Disney Junior</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>   
+    <channel id="">
+    <display-name lang="pt">PT: Dog TV FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="">
+    <display-name lang="pt">PT: E! Entertainment</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+    <channel id="ELEV1HD">
+    <display-name lang="pt">PT: Eleven Sports 1 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV1HD">
+    <display-name lang="pt">PT: Eleven Sports 1 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV1HD">
+    <display-name lang="pt">PT: Eleven Sports 1 HD (Low)</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV2HD">
+    <display-name lang="pt">PT: Eleven Sports 2 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="ELEV2HD">
+    <display-name lang="pt">PT: Eleven Sports 2 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV2HD">
+    <display-name lang="pt">PT: Eleven Sports 2 HD (Low)</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV3HD">
+    <display-name lang="pt">PT: Eleven Sports 3 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV4HD">
+    <display-name lang="pt">PT: Eleven Sports 4 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="ELEV5HD">
+    <display-name lang="pt">PT: Eleven Sports 5 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="ELEV6HD">
+    <display-name lang="pt">PT: Eleven Sports 6 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="Euronews.nws">
+    <display-name lang="pt">PT: Euronews</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="eurosport.pt">
+    <display-name lang="pt">PT: Eurosport 1 FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="eurosport2.pt">
+    <display-name lang="pt">PT: Eurosport 2 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="FASHIONTV">
+    <display-name lang="pt">PT: Fashion TV</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="FightNetwork">
+    <display-name lang="pt">PT: Fight Network FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="">
+    <display-name lang="pt">PT: Fine Living Network FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="FOOD">
+    <display-name lang="pt">PT: Food Network FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="FOXCOMEDY">
+    <display-name lang="pt">PT: Fox Comedy</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="FOXCOMEDY">
+    <display-name lang="pt">PT: Fox Comedy FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="foxcrime.pt">
+    <display-name lang="pt">PT: Fox Crime</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="foxcrime.pt">
+    <display-name lang="pt">PT: Fox Crime FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="fox.pt">
+    <display-name lang="pt">PT: Fox FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="foxlife.pt">
+    <display-name lang="pt">PT: Fox Life</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="foxlife.pt">
+    <display-name lang="pt">PT: Fox Life FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="FOXM">
+    <display-name lang="pt">PT: Fox Movies</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="FOXM">
+    <display-name lang="pt">PT: Fox Movies FHD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="">
+    <display-name lang="pt">PT: Fox News</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="FuelTV">
+    <display-name lang="pt">PT: Fuel TV</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
