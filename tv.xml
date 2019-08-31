@@ -6,14 +6,14 @@
   </channel>
   <channel id="tvc2.pt">
     <display-name lang="pt">|MEO| TVCINE 2</display-name>
-    <url>tvc1.pt</url>
+    <url>tvc2.pt</url>
   </channel>
   <channel id="tvc3.pt">
     <display-name lang="pt">|MEO| TVCINE 3</display-name>
-    <url>tvc1.pt</url>
+    <url>tvc3.pt</url>
   </channel>
   <channel id="tvc4.pt">
     <display-name lang="pt">|MEO| TVCINE 4</display-name>
-    <url>tvc1.pt</url>
+    <url>tvc4.pt</url>
   </channel>
 </tv>
