@@ -2,18 +2,18 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="tvc1.pt">
     <display-name lang="pt">|MEO| TVCINE 1</display-name>
-    <url>tvc1.pt</url>
+    <url>https://portalnacional.com.pt/util/tv/tvc1-tv-cine-1</url>
   </channel>
   <channel id="tvc2.pt">
     <display-name lang="pt">|MEO| TVCINE 2</display-name>
-    <url>tvc2.pt</url>
+    <urlhttps://portalnacional.com.pt/util/tv/tvc2-tv-cine-2</url>
   </channel>
   <channel id="tvc3.pt">
     <display-name lang="pt">|MEO| TVCINE 3</display-name>
-    <url>tvc3.pt</url>
+    <url>https://portalnacional.com.pt/util/tv/tvc3-tv-cine-3</url>
   </channel>
   <channel id="tvc4.pt">
     <display-name lang="pt">|MEO| TVCINE 4</display-name>
-    <url>tvc4.pt</url>
+    <url>https://portalnacional.com.pt/util/tv/tvc4-tv-cine-4</url>
   </channel>
 </tv>
