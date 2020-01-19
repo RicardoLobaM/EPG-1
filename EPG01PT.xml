@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+     <channel id="SportTV1.pt">
+	<display-name lang="pt">PT - SPORT TV 1</display-name>
+  </channel>
+  <channel id="SportTV2.pt">
+    <display-name lang="pt">PT - SPORT TV 2</display-name>
+  </channel>
+  <channel id="SportTV3.pt">
+    <display-name lang="pt">PT - SPORT TV 3</display-name
+  </channel>
+  <channel id="SportTV4.pt">
+    <display-name lang="pt">PT - SPORT TV 4</display-name>
+  </channel>
+  <channel id="SportTV5.pt">
+    <display-name lang="pt">PT - SPORT TV 5</display-name>
+  </channel>
+</tv>
