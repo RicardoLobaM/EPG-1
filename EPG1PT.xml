@@ -593,19 +593,19 @@
     <display-name lang="pt">VIP PT - TVI Ficcao</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>  
-<channel id="TVCINE 1">
+<channel id="TVCineTOP.pt">
     <display-name lang="pt">VIP PT - TVCine 1</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-  <channel id="TVCINE 2">
+  <channel id="TVCineEDITION.pt">
     <display-name lang="pt">VIP PT - TVCine 2</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-  <channel id="TVCINE 3">
+  <channel id="TVCineEMOTION.pt">
     <display-name lang="pt">VIP PT - TVCine 3</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-  <channel id="TVCINE 4">
+  <channel id="TVCineACTION.pt">
     <display-name lang="pt">VIP PT - TVCine 4</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>  
