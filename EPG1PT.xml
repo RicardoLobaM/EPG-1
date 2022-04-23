@@ -197,19 +197,19 @@
     <display-name lang="pt">PT - AXN WHITE</display-name>
     <url>http://www.nos.pt</url>
   </channel>  
-  <channel id="tvc1.pt">
+  <channel id="TVCineTOP.pt">
     <display-name lang="pt">PT - TV CINE 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc2.pt">
+  <channel id="TVCineEDITION.pt">
     <display-name lang="pt">PT - TV CINE 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc3.pt">
+  <channel id="TVCineEMOTION.pt">
     <display-name lang="pt">PT - TV CINE 3</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc4.pt">
+  <channel id="TVCineACTION.pt">
     <display-name lang="pt">PT - TV CINE 4</display-name>
     <url>http://www.nos.pt</url>
   </channel>  
